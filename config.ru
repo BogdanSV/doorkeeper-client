@@ -3,6 +3,6 @@ require 'bundler'
 
 Bundler.require
 
-require './doorkeeper_client'
+require './sis_client'
 
-run DoorkeeperClient
+run SisClient
